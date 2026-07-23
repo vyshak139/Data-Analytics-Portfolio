@@ -4,6 +4,12 @@ An interactive **Human Resources (HR) Analytics Dashboard** built in **Microsoft
 
 ---
 
+## 📊 Dashboard Visual Preview
+
+![HR Dashboard Preview](./dashboard_preview.png)
+
+---
+
 ## 📌 Project Overview
 Human resource retention and workforce satisfaction directly impact operational efficiency and recruitment expenditures. This project analyzes a dataset of **2,000 employees** across multiple departments to identify attrition drivers, evaluate compensation benchmarks, and provide actionable recommendations to executive leadership.
 
@@ -49,5 +55,6 @@ Human resource retention and workforce satisfaction directly impact operational 
 ```
 HR Analytics Dashboard/
 │── HR_Employee_Dataset_2000_Rows 4.xlsx   <-- Complete Excel Workbook (Raw Data, Pivots, Dashboard, Insights)
+│── dashboard_preview.png                 <-- Visual Dashboard Preview Image
 └── README.md                              <-- Project Documentation
 ```

@@ -6,6 +6,19 @@ Each project features full-featured Excel workbooks with interactive dashboards,
 
 ---
 
+## 🎨 Dashboards At A Glance
+
+### 1. 🏦 Banking Transaction Analysis & Dashboard
+[![Banking Dashboard](./Banking%20Transaction%20Analysis/dashboard_preview.png)](./Banking%20Transaction%20Analysis)
+
+### 2. 👥 HR Analytics & Workforce Dashboard
+[![HR Dashboard](./HR%20Analytics%20Dashboard/dashboard_preview.png)](./HR%20Analytics%20Dashboard)
+
+### 3. 🏬 Retail Sales Performance Dashboard
+[![Retail Dashboard](./Retail%20Sales%20Dashboard/dashboard_preview.png)](./Retail%20Sales%20Dashboard)
+
+---
+
 ## 🚀 Featured Projects Overview
 
 | Project | Domain | Tools & Methods | Key Focus / Highlights |
