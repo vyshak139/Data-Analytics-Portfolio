@@ -4,16 +4,28 @@ An end-to-end Data Analytics project analyzing customer banking transactions, ac
 
 ---
 
+## 📊 Dashboard Visual Preview
+
+![Banking Transactions Analytics Dashboard](./dashboard_preview.png)
+
+---
+
 ## 📌 Project Overview
-This project provides a comprehensive analysis of over **117,000+ banking transactions** to evaluate customer behavior, high-value transaction distributions, regional financial performance, and gender demographics. The final deliverable includes an interactive Excel dashboard with pivot tables, dynamic charts, and executive KPI summaries.
+This project provides a comprehensive analysis of over **117,000+ banking transactions** across **115,285 customers** to evaluate customer behavior, high-value transaction distributions, regional financial performance, and gender demographics. The final deliverable includes an interactive Excel dashboard with pivot tables, dynamic charts, and executive KPI summaries.
+
+---
+
+## 🛠️ Tools & Methods
+`MySQL` • `Microsoft Excel` • `Pivot Tables` • `SQL Queries` • `Data Analysis`
 
 ---
 
 ## 📊 Key Performance Indicators (KPIs)
 * **Total Transactions Analyzed:** `117,641`
-* **Total Transaction Volume:** `₹184,102,066.02` (~₹184.1M)
+* **Total Customers:** `115,285`
+* **Total Transaction Volume:** `₹184,102,066` (~₹184.1M)
 * **Average Transaction Amount:** `₹1,564.95`
-* **Average Customer Account Balance:** `₹114,427.53`
+* **Average Account Balance:** `₹114,427.53`
 * **Highest Single Transaction:** `₹720,001.16`
 
 ---
@@ -25,19 +37,12 @@ This project provides a comprehensive analysis of over **117,000+ banking transa
    * *Recommendation:* Target these accounts for wealth management, premium credit cards, and dedicated relationship managers.
 
 2. **Regional Activity Dominance:**
-   * *Insight:* **Mumbai** recorded the highest number of transactions (**11,763 transactions**) and generated the highest cumulative transaction volume across all locations.
-   * *Recommendation:* Prioritize digital feature rollouts and high-margin financial products (investment/loans) in the Mumbai metro region.
+   * *Insight:* **Mumbai** and **New Delhi** recorded the highest transaction volumes among all metropolitan cities, followed by Bangalore, Gurgaon, and Kolkata.
+   * *Recommendation:* Prioritize digital feature rollouts and high-margin financial products (investment/loans) in the Mumbai and New Delhi regions.
 
 3. **Demographic Distribution:**
-   * *Insight:* Transaction frequency and average balance distributions remain consistent across gender categories, with high active participation.
+   * *Insight:* Transaction frequency and balance distributions show strong active participation across male and female account holders.
    * *Recommendation:* Maintain inclusive financial product design and gender-neutral promotional campaigns.
-
----
-
-## 🛠️ Tools & Technologies Used
-* **Data Extraction & Querying:** MySQL
-* **Data Analytics & Dashboarding:** Microsoft Excel (Pivot Tables, Slicers, Excel Formulas, KPI Cards)
-* **Reporting Formats:** `.xlsx`, `.csv`
 
 ---
 
@@ -45,6 +50,7 @@ This project provides a comprehensive analysis of over **117,000+ banking transa
 ```
 Banking Transaction Analysis/
 │── Banking Transactions Analytics.xlsx   <-- Complete Excel Workbook with Dashboard & Pivot Tables
+│── dashboard_preview.png                 <-- Authentic Dashboard Screenshot
 │── Banking Transactions Analytics.csv    <-- Cleaned Raw Transaction Data
 │── Dashboard_KPIs.csv                    <-- Aggregated Top-level KPIs
 │── City_Summary.csv                       <-- Summary by Metropolitan Regions
