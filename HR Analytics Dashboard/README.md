@@ -6,47 +6,47 @@ An interactive **Human Resources (HR) Analytics Dashboard** built in **Microsoft
 
 ## 📊 Dashboard Visual Preview
 
-![HR Dashboard Preview](./dashboard_preview.png)
+![HR Analytics Dashboard Preview](./dashboard_preview.png)
 
 ---
 
 ## 📌 Project Overview
-Human resource retention and workforce satisfaction directly impact operational efficiency and recruitment expenditures. This project analyzes a dataset of **2,000 employees** across multiple departments to identify attrition drivers, evaluate compensation benchmarks, and provide actionable recommendations to executive leadership.
+Human resource retention and workforce satisfaction directly impact operational efficiency and recruitment expenditures. This project analyzes a dataset of **1,989 employees** across multiple departments to identify attrition drivers, evaluate compensation benchmarks, and provide actionable recommendations to executive leadership.
 
 ---
 
 ## 📊 Key Performance Indicators (KPIs) & Findings
-* **Total Employees:** `2,000`
-* **Total Attrition Count:** `395 employees` (~19.75% attrition rate)
-* **Average Employee Salary:** `~₹72,500`
-* **Highest Compensation Department:** **IT Department**
-* **Highest Attrition Department:** **Sales Department**
-* **Workforce Education Baseline:** Majority hold a Bachelor's Degree
+* **Total Employees:** `1,989`
+* **Employees Left (Attrition):** `408 employees`
+* **Attrition Rate:** `20.51%`
+* **Average Employee Salary:** `$102,080.67`
+* **Average Employee Age:** `40 years`
+* **Average Job Satisfaction Score:** `3 / 5`
 
 ---
 
 ## 💡 Business Insights & Strategic Recommendations
 
 1. **Departmental Attrition Hotspots:**
-   * *Insight:* The **Sales Department** experiences the highest employee turnover rate (out of 395 total exits).
-   * *Recommendation:* Conduct targeted exit interviews, review commission structures, and introduce retention bonuses and career progression frameworks within Sales.
+   * *Insight:* Attrition is concentrated in the **Sales** and **Finance** departments, followed by IT and Marketing.
+   * *Recommendation:* Conduct targeted exit interviews, review commission structures, and introduce retention bonuses and career progression frameworks within high-turnover departments.
 
-2. **Compensation & Skill Valuation:**
-   * *Insight:* The **IT Department** maintains the highest average salary, reflecting specialized technical skills.
-   * *Recommendation:* Continuously benchmark IT salaries against market rates to prevent key engineering talent from leaving.
+2. **Compensation & Salary by Job Role:**
+   * *Insight:* Average salary across the organization is **$102,080.67**, with highest compensation observed in specialized roles like **SEO Specialist**, **HR Manager**, and **Financial Analyst**.
+   * *Recommendation:* Continuously benchmark compensation against tech/corporate industry standards to prevent key talent drain.
 
 3. **Overtime & Work-Life Balance:**
-   * *Insight:* A significant portion of employees frequently work overtime, which correlates with lower job satisfaction scores.
+   * *Insight:* Employees working overtime exhibit significantly higher attrition rates compared to regular-hour staff. Work-life balance ratings skew heavily toward lower satisfaction bands.
    * *Recommendation:* Re-evaluate workload distribution, optimize staffing headcount, and establish flexible work options to prevent burnout.
 
-4. **Diversity & Performance Stability:**
-   * *Insight:* Balanced gender distribution and stable performance ratings across departments.
-   * *Recommendation:* Maintain equitable hiring practices and establish peer recognition programs for top performers.
+4. **Demographics & Education:**
+   * *Insight:* Balanced gender distribution (Male/Female) across departments, with workforce qualification primarily composed of Bachelor's and Master's degree holders.
+   * *Recommendation:* Maintain equitable hiring practices and establish continuous learning & development programs.
 
 ---
 
 ## 🛠️ Tools & Technologies Used
-* **Data Visualization & Analytics:** Microsoft Excel (Pivot Tables, Conditional Formatting, Interactive Charts)
+* **Data Visualization & Analytics:** Microsoft Excel (Pivot Tables, Dynamic Charts, Slicers, KPI Cards)
 * **Data Processing:** Data Cleaning, Formula Modeling (VLOOKUP/XLOOKUP, COUNTIFS, AVERAGEIFS)
 
 ---
@@ -55,6 +55,6 @@ Human resource retention and workforce satisfaction directly impact operational 
 ```
 HR Analytics Dashboard/
 │── HR_Employee_Dataset_2000_Rows 4.xlsx   <-- Complete Excel Workbook (Raw Data, Pivots, Dashboard, Insights)
-│── dashboard_preview.png                 <-- Visual Dashboard Preview Image
+│── dashboard_preview.png                 <-- Authentic Dashboard Screenshot
 └── README.md                              <-- Project Documentation
 ```
