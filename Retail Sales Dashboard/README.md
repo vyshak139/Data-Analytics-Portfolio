@@ -4,12 +4,6 @@ A dynamic **Retail Sales Analytics Dashboard** developed in **Microsoft Excel** 
 
 ---
 
-## 📊 Dashboard Visual Preview
-
-![Retail Dashboard Preview](./dashboard_preview.png)
-
----
-
 ## 📌 Project Overview
 Understanding product demand, customer payment preferences, and regional revenue growth is vital for retail strategy. This project processes raw retail sales order data into interactive pivot models and dashboard visuals to guide inventory planning, promotional timing, and sales rep recognition.
 
@@ -54,6 +48,5 @@ Understanding product demand, customer payment preferences, and regional revenue
 ```
 Retail Sales Dashboard/
 │── Sales Data-2.xlsx    <-- Complete Excel Workbook (Raw Sales Data, Analysis, Pivots, Dashboard, Insights)
-│── dashboard_preview.png <-- Visual Dashboard Preview Image
 └── README.md            <-- Project Documentation
 ```

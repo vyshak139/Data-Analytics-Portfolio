@@ -4,12 +4,6 @@ An end-to-end Data Analytics project analyzing customer banking transactions, ac
 
 ---
 
-## 📊 Dashboard Visual Preview
-
-![Banking Dashboard Preview](./dashboard_preview.png)
-
----
-
 ## 📌 Project Overview
 This project provides a comprehensive analysis of over **117,000+ banking transactions** to evaluate customer behavior, high-value transaction distributions, regional financial performance, and gender demographics. The final deliverable includes an interactive Excel dashboard with pivot tables, dynamic charts, and executive KPI summaries.
 
@@ -51,7 +45,6 @@ This project provides a comprehensive analysis of over **117,000+ banking transa
 ```
 Banking Transaction Analysis/
 │── Banking Transactions Analytics.xlsx   <-- Complete Excel Workbook with Dashboard & Pivot Tables
-│── dashboard_preview.png                 <-- Visual Dashboard Preview Image
 │── Banking Transactions Analytics.csv    <-- Cleaned Raw Transaction Data
 │── Dashboard_KPIs.csv                    <-- Aggregated Top-level KPIs
 │── City_Summary.csv                       <-- Summary by Metropolitan Regions

@@ -6,16 +6,10 @@ Each project features full-featured Excel workbooks with interactive dashboards,
 
 ---
 
-## 🎨 Dashboards At A Glance
+## 🎨 Featured Dashboard Preview
 
-### 1. 🏦 Banking Transaction Analysis & Dashboard
-[![Banking Dashboard](./Banking%20Transaction%20Analysis/dashboard_preview.png)](./Banking%20Transaction%20Analysis)
-
-### 2. 👥 HR Analytics & Workforce Dashboard
-[![HR Dashboard](./HR%20Analytics%20Dashboard/dashboard_preview.png)](./HR%20Analytics%20Dashboard)
-
-### 3. 🏬 Retail Sales Performance Dashboard
-[![Retail Dashboard](./Retail%20Sales%20Dashboard/dashboard_preview.png)](./Retail%20Sales%20Dashboard)
+### 👥 HR Analytics & Workforce Dashboard
+[![HR Analytics Dashboard](./HR%20Analytics%20Dashboard/dashboard_preview.png)](./HR%20Analytics%20Dashboard)
 
 ---
 
@@ -23,8 +17,8 @@ Each project features full-featured Excel workbooks with interactive dashboards,
 
 | Project | Domain | Tools & Methods | Key Focus / Highlights |
 | :--- | :--- | :--- | :--- |
+| 👥 [**HR Analytics Dashboard**](./HR%20Analytics%20Dashboard) | HR & Workforce | Excel, Pivot Tables, HR Metrics | 1,989 workforce dataset, 408 attrition tracking, $102k avg salary & satisfaction metrics |
 | 🏦 [**Banking Transaction Analysis**](./Banking%20Transaction%20Analysis) | Financial Analytics | MySQL, Excel, Pivot Tables, KPIs | 117K+ transactions, ₹184M volume, Mumbai regional concentration & HNW account identification |
-| 👥 [**HR Analytics Dashboard**](./HR%20Analytics%20Dashboard) | HR & Workforce | Excel, Pivot Tables, HR Metrics | 2,000 workforce dataset, 395 attrition tracking, Sales exit drivers & IT compensation insights |
 | 🏬 [**Retail Sales Dashboard**](./Retail%20Sales%20Dashboard) | Retail & E-Commerce | Excel, Dynamic Charts, Slicers | Regional revenue (South region peak), category profitability (Electronics), rep performance |
 | 🛒 [**Ecommerce Sales Analytics**](./Ecommerce%20Sales%20Analytics) | E-Commerce Analytics | Python, Pandas, CSV Processing | Order trend analysis, product demand profiling & geographical sales distribution |
 
@@ -34,8 +28,8 @@ Each project features full-featured Excel workbooks with interactive dashboards,
 
 ```
 Data Analytics Project/
+├── 👥 HR Analytics Dashboard/          <-- Workforce Attrition, Compensation & Satisfaction (with Dashboard Screenshot)
 ├── 🏦 Banking Transaction Analysis/    <-- Banking KPIs, Regional Activity & Account Analytics
-├── 👥 HR Analytics Dashboard/          <-- Workforce Attrition, Compensation & Satisfaction
 ├── 🏬 Retail Sales Dashboard/          <-- Retail Revenue, Category Profit & Rep Performance
 ├── 🛒 Ecommerce Sales Analytics/       <-- E-commerce Sales Trends & Order Analysis
 ├── .gitignore                          <-- Git exclusion rules
