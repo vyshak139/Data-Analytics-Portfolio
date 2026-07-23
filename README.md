@@ -1,0 +1,42 @@
+# 📊 Data Analytics Portfolio
+
+Welcome to my Data Analytics Portfolio! This repository showcases real-world analytics projects focusing on **Business Intelligence**, **Financial Analytics**, **HR Workforce Analytics**, and **Commercial Sales Optimization**.
+
+Each project features full-featured Excel workbooks with interactive dashboards, pivot table models, KPI summaries, and actionable business insights.
+
+---
+
+## 🚀 Featured Projects Overview
+
+| Project | Domain | Tools & Methods | Key Focus / Highlights |
+| :--- | :--- | :--- | :--- |
+| 🏦 [**Banking Transaction Analysis**](./Banking%20Transaction%20Analysis) | Financial Analytics | MySQL, Excel, Pivot Tables, KPIs | 117K+ transactions, ₹184M volume, Mumbai regional concentration & HNW account identification |
+| 👥 [**HR Analytics Dashboard**](./HR%20Analytics%20Dashboard) | HR & Workforce | Excel, Pivot Tables, HR Metrics | 2,000 workforce dataset, 395 attrition tracking, Sales exit drivers & IT compensation insights |
+| 🏬 [**Retail Sales Dashboard**](./Retail%20Sales%20Dashboard) | Retail & E-Commerce | Excel, Dynamic Charts, Slicers | Regional revenue (South region peak), category profitability (Electronics), rep performance |
+| 🛒 [**Ecommerce Sales Analytics**](./Ecommerce%20Sales%20Analytics) | E-Commerce Analytics | Python, Pandas, CSV Processing | Order trend analysis, product demand profiling & geographical sales distribution |
+
+---
+
+## 📁 Repository Organization
+
+```
+Data Analytics Project/
+├── 🏦 Banking Transaction Analysis/    <-- Banking KPIs, Regional Activity & Account Analytics
+├── 👥 HR Analytics Dashboard/          <-- Workforce Attrition, Compensation & Satisfaction
+├── 🏬 Retail Sales Dashboard/          <-- Retail Revenue, Category Profit & Rep Performance
+├── 🛒 Ecommerce Sales Analytics/       <-- E-commerce Sales Trends & Order Analysis
+├── .gitignore                          <-- Git exclusion rules
+└── README.md                           <-- Main Portfolio Overview
+```
+
+---
+
+## 🛠️ Technical Stack & Skills Demonstrated
+* **Analytics Tools:** Microsoft Excel (Pivot Tables, Dynamic Charts, Slicers, KPI Cards, Advanced Formulas), MySQL, Python (Pandas, NumPy).
+* **Data Core:** Data Cleaning, Transformation, Exploratory Data Analysis (EDA), Aggregation.
+* **Business Acumen:** Executive KPI reporting, root cause attrition analysis, regional revenue modeling, HNW customer profiling.
+
+---
+
+## 📬 Contact & Connect
+Thank you for visiting my analytics portfolio! Feel free to reach out to discuss data analytics opportunities or project collaborations.
