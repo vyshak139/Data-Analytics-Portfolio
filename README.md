@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio
+#  Data Analytics Portfolio
 
 Welcome to my Data Analytics Portfolio! This repository showcases real-world analytics projects focusing on **Healthcare Patient Analytics**, **Business Intelligence**, **Financial Analytics**, **HR Workforce Analytics**, and **Commercial Sales Optimization**.
 
