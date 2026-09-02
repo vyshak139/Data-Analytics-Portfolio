@@ -1,5 +1,13 @@
 # Healthcare Data Analytics – Project
 
+---
+
+## 📊 Dashboard Visual Preview
+
+![Healthcare Analytics Dashboard Preview](./dashboard_preview.png)
+
+---
+
 ## 📌 Project Overview
 
 This project is an end-to-end healthcare data analytics project designed to analyze
