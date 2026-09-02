@@ -2,9 +2,16 @@
 
 ---
 
-## 📊 Dashboard Visual Preview
+## 📊 Dashboard Visual Previews
 
-![Healthcare Analytics Dashboard Preview](./dashboard_preview.png)
+### 1. Executive Healthcare Overview
+![Dashboard 1 – Healthcare Overview](./dashboard_1_overview.png)
+
+### 2. Patient Demographics & Geographic Distribution
+![Dashboard 2 – Patient Demographics](./dashboard_2_demographics.png)
+
+### 3. Healthcare Cost & Financial Coverage
+![Dashboard 3 – Healthcare Cost & Coverage](./dashboard_3_cost_coverage.png)
 
 ---
 
@@ -134,6 +141,8 @@ entity level.
 
 ## Dashboard 1 – Healthcare Overview
 
+![Dashboard 1 Overview](./dashboard_1_overview.png)
+
 ### Purpose
 
 Provides an executive-level overview of healthcare activity.
@@ -158,6 +167,8 @@ Provides an executive-level overview of healthcare activity.
 
 ## Dashboard 2 – Patient Demographics
 
+![Dashboard 2 Patient Demographics](./dashboard_2_demographics.png)
+
 ### Purpose
 
 Analyzes the composition and geographic distribution of the patient population.
@@ -178,6 +189,8 @@ Analyzes the composition and geographic distribution of the patient population.
 ---
 
 ## Dashboard 3 – Healthcare Cost & Coverage
+
+![Dashboard 3 Healthcare Cost & Coverage](./dashboard_3_cost_coverage.png)
 
 ### Purpose
 

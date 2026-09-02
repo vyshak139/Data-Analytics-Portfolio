@@ -8,8 +8,13 @@ Each project features full-featured workbooks/datasets, relational database sche
 
 ## 🎨 Featured Dashboards At A Glance
 
-### 1. 🏥 Healthcare & Patient Analytics Dashboard
-[![Healthcare Analytics Dashboard](./Healthcare-Patient-Analytics/dashboard_preview.png)](./Healthcare-Patient-Analytics)
+### 1. 🏥 Healthcare & Patient Analytics Dashboards
+* **Dashboard 1: Executive Healthcare Overview**
+  [![Healthcare Overview](./Healthcare-Patient-Analytics/dashboard_1_overview.png)](./Healthcare-Patient-Analytics)
+* **Dashboard 2: Patient Demographics & Geographic Distribution**
+  [![Patient Demographics](./Healthcare-Patient-Analytics/dashboard_2_demographics.png)](./Healthcare-Patient-Analytics)
+* **Dashboard 3: Healthcare Cost & Financial Coverage**
+  [![Healthcare Cost & Coverage](./Healthcare-Patient-Analytics/dashboard_3_cost_coverage.png)](./Healthcare-Patient-Analytics)
 
 ### 2. 👥 HR Analytics & Workforce Dashboard
 [![HR Analytics Dashboard](./HR%20Analytics%20Dashboard/dashboard_preview.png)](./HR%20Analytics%20Dashboard)
