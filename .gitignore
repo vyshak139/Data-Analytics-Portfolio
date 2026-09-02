@@ -2,6 +2,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+*.textClipping
 
 # Microsoft Excel Lock/Temp Files
 ~$*.xlsx
