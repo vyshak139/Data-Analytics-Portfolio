@@ -1,21 +1,21 @@
-# 👥 HR Analytics Dashboard & Workforce Insights
+#  HR Analytics Dashboard & Workforce Insights
 
 An interactive **Human Resources (HR) Analytics Dashboard** built in **Microsoft Excel** to monitor employee attrition, salary distributions, performance ratings, and workforce demographics.
 
 ---
 
-## 📊 Dashboard Visual Preview
+##  Dashboard Visual Preview
 
 ![HR Analytics Dashboard Preview](./dashboard_preview.png)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 Human resource retention and workforce satisfaction directly impact operational efficiency and recruitment expenditures. This project analyzes a dataset of **1,989 employees** across multiple departments to identify attrition drivers, evaluate compensation benchmarks, and provide actionable recommendations to executive leadership.
 
 ---
 
-## 📊 Key Performance Indicators (KPIs) & Findings
+##  Key Performance Indicators (KPIs) & Findings
 * **Total Employees:** `1,989`
 * **Employees Left (Attrition):** `408 employees`
 * **Attrition Rate:** `20.51%`
@@ -25,7 +25,7 @@ Human resource retention and workforce satisfaction directly impact operational 
 
 ---
 
-## 💡 Business Insights & Strategic Recommendations
+##  Business Insights & Strategic Recommendations
 
 1. **Departmental Attrition Hotspots:**
    * *Insight:* Attrition is concentrated in the **Sales** and **Finance** departments, followed by IT and Marketing.
@@ -45,13 +45,13 @@ Human resource retention and workforce satisfaction directly impact operational 
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 * **Data Visualization & Analytics:** Microsoft Excel (Pivot Tables, Dynamic Charts, Slicers, KPI Cards)
 * **Data Processing:** Data Cleaning, Formula Modeling (VLOOKUP/XLOOKUP, COUNTIFS, AVERAGEIFS)
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 HR Analytics Dashboard/
 │── HR_Employee_Dataset_2000_Rows 4.xlsx   <-- Complete Excel Workbook (Raw Data, Pivots, Dashboard, Insights)
