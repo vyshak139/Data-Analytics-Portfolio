@@ -25,6 +25,14 @@ Each project features full-featured workbooks/datasets, relational database sche
 ### 4. 🏬 Retail Sales Performance Dashboard
 [![Retail Sales Dashboard](./Retail%20Sales%20Dashboard/dashboard_preview.png)](./Retail%20Sales%20Dashboard)
 
+### 5. 🛒 Ecommerce Sales Analytics Charts
+* **Monthly Sales Trend & Revenue Analysis**
+  [![Monthly Sales Trend](./Ecommerce%20Sales%20Analytics/monthly_sales_trend.png)](./Ecommerce%20Sales%20Analytics)
+* **Geographical Sales & Top Cities Share**
+  [![Top Cities Revenue Share](./Ecommerce%20Sales%20Analytics/top5_city_pie.png)](./Ecommerce%20Sales%20Analytics)
+* **Top Revenue Products & Order Hours**
+  [![Top Revenue Products](./Ecommerce%20Sales%20Analytics/top_revenue_products.png)](./Ecommerce%20Sales%20Analytics)
+
 ---
 
 ##  Featured Projects Overview
