@@ -2,7 +2,7 @@
 
 ---
 
-## 📊 Dashboard Visual Previews
+##  Dashboard Visual Previews
 
 ### 1. Executive Healthcare Overview
 ![Dashboard 1 – Healthcare Overview](./dashboard_1_overview.png)
@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an end-to-end healthcare data analytics project designed to analyze
 patient demographics, healthcare encounters, medical conditions, medications,
@@ -39,7 +39,7 @@ can support operational, demographic, and financial decision-making.
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 
 The project aims to answer questions such as:
 
@@ -57,7 +57,7 @@ The project aims to answer questions such as:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses related healthcare tables including:
 
@@ -74,7 +74,7 @@ race, ethnicity, marital status, healthcare expenses and healthcare coverage.
 
 ---
 
-# 🔧 Tools & Technologies
+# Tools & Technologies
 
 ### Python
 - Pandas
@@ -123,7 +123,7 @@ Used for:
 
 ---
 
-# 📈 Key Metrics
+# Key Metrics
 
 The final analysis contains:
 
@@ -137,7 +137,7 @@ entity level.
 
 ---
 
-# 📊 Tableau Dashboards
+# Tableau Dashboards
 
 ## Dashboard 1 – Healthcare Overview
 
@@ -211,7 +211,7 @@ Analyzes healthcare spending and insurance coverage.
 
 ---
 
-# 🔎 Key Business Insights
+# Key Business Insights
 
 ### Patient & Encounter Activity
 
@@ -273,7 +273,7 @@ Top 10 view at approximately $595K.
 
 ---
 
-# 💡 Business Recommendations
+# Business Recommendations
 
 1. Monitor wellness and ambulatory encounters because they represent the largest
    encounter segments.
@@ -293,7 +293,7 @@ Top 10 view at approximately $595K.
 
 ---
 
-# 🧠 Data Quality Considerations
+# Data Quality Considerations
 
 - Some demographic fields contain unknown or incomplete values.
 - Record counts and distinct-patient counts represent different analytical
@@ -304,7 +304,7 @@ Top 10 view at approximately $595K.
 
 ---
 
-# 🚀 Project Workflow
+# Project Workflow
 
 1. Data Collection & Understanding
 2. Data Cleaning using Python
@@ -317,7 +317,7 @@ Top 10 view at approximately $595K.
 
 ---
 
-# 📁 Suggested Repository Structure
+# Suggested Repository Structure
 
 Healthcare-Data-Analytics/
 │
@@ -352,7 +352,7 @@ Healthcare-Data-Analytics/
 
 ---
 
-# 👨‍💻 Skills Demonstrated
+# Skills Demonstrated
 
 - Python
 - Pandas
