@@ -6,7 +6,7 @@ Each project features full-featured workbooks/datasets, relational database sche
 
 ---
 
-## 🎨 Featured Dashboards At A Glance
+##  Featured Dashboards At A Glance
 
 ### 1. 🏥 Healthcare & Patient Analytics Dashboards
 * **Dashboard 1: Executive Healthcare Overview**
@@ -27,7 +27,7 @@ Each project features full-featured workbooks/datasets, relational database sche
 
 ---
 
-## 🚀 Featured Projects Overview
+##  Featured Projects Overview
 
 | Project | Domain | Tools & Methods | Key Focus / Highlights |
 | :--- | :--- | :--- | :--- |
@@ -54,12 +54,12 @@ Data Analytics Project/
 
 ---
 
-## 🛠️ Technical Stack & Skills Demonstrated
+## Technical Stack & Skills Demonstrated
 * **Analytics & DB Tools:** MySQL, Relational Schema Design, Python (Pandas, NumPy, SQLAlchemy, PyMySQL), Microsoft Excel (Pivot Tables, Dynamic Charts, Slicers, KPI Cards, Advanced Formulas).
 * **Data Core:** ETL Engineering, Data Cleaning, Data Transformation, Exploratory Data Analysis (EDA), Aggregation.
 * **Business Acumen:** Executive KPI reporting, Healthcare Clinical Metrics, Root Cause Attrition Analysis, Regional Revenue Modeling, High-Net-Worth Customer Profiling.
 
 ---
 
-## 📬 Contact & Connect
+## Contact & Connect
 Thank you for visiting my analytics portfolio! Feel free to reach out to discuss data analytics opportunities or project collaborations.
