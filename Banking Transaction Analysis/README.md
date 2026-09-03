@@ -1,26 +1,26 @@
-# 🏦 Banking Transaction Analysis & Dashboard
+#  Banking Transaction Analysis & Dashboard
 
 An end-to-end Data Analytics project analyzing customer banking transactions, account balances, and regional banking activity using **MySQL** and **Microsoft Excel**.
 
 ---
 
-## 📊 Dashboard Visual Preview
+##  Dashboard Visual Preview
 
 ![Banking Transactions Analytics Dashboard](./dashboard_preview.png)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project provides a comprehensive analysis of over **117,000+ banking transactions** across **115,285 customers** to evaluate customer behavior, high-value transaction distributions, regional financial performance, and gender demographics. The final deliverable includes an interactive Excel dashboard with pivot tables, dynamic charts, and executive KPI summaries.
 
 ---
 
-## 🛠️ Tools & Methods
+##  Tools & Methods
 `MySQL` • `Microsoft Excel` • `Pivot Tables` • `SQL Queries` • `Data Analysis`
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 * **Total Transactions Analyzed:** `117,641`
 * **Total Customers:** `115,285`
 * **Total Transaction Volume:** `₹184,102,066` (~₹184.1M)
@@ -30,7 +30,7 @@ This project provides a comprehensive analysis of over **117,000+ banking transa
 
 ---
 
-## 💡 Key Business Insights & Recommendations
+##  Key Business Insights & Recommendations
 
 1. **High-Value Transaction Discovery:**
    * *Insight:* The highest single transaction recorded was **₹720,001.16**, signaling a segment of high-net-worth customers.
@@ -46,7 +46,7 @@ This project provides a comprehensive analysis of over **117,000+ banking transa
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 ```
 Banking Transaction Analysis/
 │── Banking Transactions Analytics.xlsx   <-- Complete Excel Workbook with Dashboard & Pivot Tables
