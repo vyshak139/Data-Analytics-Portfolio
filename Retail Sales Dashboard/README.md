@@ -1,21 +1,21 @@
-# 🏬 Retail Sales Dashboard & Commercial Analytics
+#  Retail Sales Dashboard & Commercial Analytics
 
 A dynamic **Retail Sales Analytics Dashboard** developed in **Microsoft Excel** to track sales performance, regional revenue generation, product category profitability, and sales representative contributions.
 
 ---
 
-## 📊 Dashboard Visual Preview
+##  Dashboard Visual Preview
 
 ![Retail Sales Dashboard](./dashboard_preview.png)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 Understanding product demand, customer payment preferences, and regional revenue growth is vital for retail strategy. This project processes raw retail sales order data into interactive pivot models and dashboard visuals to guide inventory planning, promotional timing, and sales rep recognition.
 
 ---
 
-## 📊 Key Performance Indicators (KPIs) & Metrics
+##  Key Performance Indicators (KPIs) & Metrics
 * **Total Revenue:** `$7,635,603.50`
 * **Total Profit:** `$2,277,006.00`
 * **Average Revenue per Order:** `$7,995.40`
@@ -25,7 +25,7 @@ Understanding product demand, customer payment preferences, and regional revenue
 
 ---
 
-## 💡 Key Business Insights & Recommendations
+##  Key Business Insights & Recommendations
 
 1. **Regional & Category Drivers:**
    * *Insight:* The **South Region** generated the highest total revenue among all regions (South, West, North, East), while **Electronics** delivered the highest profit margins.
@@ -41,13 +41,13 @@ Understanding product demand, customer payment preferences, and regional revenue
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 * **Data Analysis & Dashboarding:** Microsoft Excel (Dynamic Pivot Tables, Slicers, KPI Cards, Excel Charts)
 * **Data Structuring:** Data Cleaning, Categorization, and Summary Aggregations
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 ```
 Retail Sales Dashboard/
 │── Sales Data-2.xlsx    <-- Complete Excel Workbook (Raw Sales Data, Analysis, Pivots, Dashboard, Insights)
